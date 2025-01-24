@@ -14,11 +14,11 @@
             <input name="password" id="password" type="password">
             <input type="submit" value="log in">
         </form>
-        <form action="signin.php" method="post">
+        <form action="signin.php">
             <label for="signin">No account yet? </label>
             <input type="submit" value="sign in">
         </form>
-        <form action="signin.php" method="post">
+        <form action="restore.php">
             <input type="submit" value="forgot password?">
         </form>
     </body>
